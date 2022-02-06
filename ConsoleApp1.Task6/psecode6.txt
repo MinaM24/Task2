@@ -1,0 +1,16 @@
+﻿proqram calculate number
+
+READ a
+
+
+IF a>=1000 and a<10000 
+THEN
+	calculate   a*0.20%
+				(a*0.20%)*0.10%
+				((a*0.20%)*0.10%)*((a*0.20%)*0.10%)
+
+ELSE 
+	DISPLAY "4 reqemli deyil"
+ENDIF
+
+end program

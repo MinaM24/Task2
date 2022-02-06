@@ -1,0 +1,15 @@
+﻿proqram calculate number
+
+READ a
+READ b
+
+IF a>=10000 and a<100000 and b>=10000 and b<100000 
+THEN
+	calculate   a+b
+	add number  5(a+b)5
+
+ELSE 
+	DISPLAY "5 reqemli deyil"
+ENDIF
+
+end program

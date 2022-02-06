@@ -1,0 +1,11 @@
+﻿proqram CHANGE THE NUMBER
+
+READ a
+
+IF a>=100 and a<1000 THEN
+	add number (aa)
+ELSE 
+	SHOW "3 reqemli deyil"
+ENDIF
+
+end program

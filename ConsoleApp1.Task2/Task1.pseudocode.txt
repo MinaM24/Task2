@@ -1,0 +1,11 @@
+﻿proqram iNCREASE THE NUMBER
+
+READ a
+
+IF a>=1000 and a<10000 THEN
+	add number(7a8)
+ELSE 
+	SHOW "4 reqemli deyil"
+ENDIF
+
+end program
