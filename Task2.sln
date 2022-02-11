@@ -3,35 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task2(1)", "ConsoleApp1.Task2\ConsoleApp1.Task2(1).csproj", "{B98BC356-E563-461A-839D-BFD70A503F5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-1", "ConsoleApp1.Task2\ConsoleApp1.Task2-1.csproj", "{B98BC356-E563-461A-839D-BFD70A503F5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task2(2)", "ConsoleApp1.Task2(2)\ConsoleApp1.Task2(2).csproj", "{9FD3DBB8-758E-4277-BAA9-8CFBCE76AC75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-2", "ConsoleApp1.Task2(2)\ConsoleApp1.Task2-2.csproj", "{9FD3DBB8-758E-4277-BAA9-8CFBCE76AC75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task2(5)", "ConsoleApp1.Task2(6)\ConsoleApp1.Task2(5).csproj", "{9A6D6031-0CF5-4C49-863D-9AEBF52E9D7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-5", "ConsoleApp1.Task2(6)\ConsoleApp1.Task2-5.csproj", "{9A6D6031-0CF5-4C49-863D-9AEBF52E9D7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task2(3)", "ConsoleApp1.Task2(3)\ConsoleApp1.Task2(3).csproj", "{FC1F8D39-059C-44D2-8138-0B752C847664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-3", "ConsoleApp1.Task2(3)\ConsoleApp1.Task2-3.csproj", "{FC1F8D39-059C-44D2-8138-0B752C847664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task2(4)", "ConsoleApp1.Task2(4)\ConsoleApp1.Task2(4).csproj", "{BA1E075E-8B3F-478A-8511-59F5CD75632C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-4", "ConsoleApp1.Task2(4)\ConsoleApp1.Task2-4.csproj", "{BA1E075E-8B3F-478A-8511-59F5CD75632C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task6", "ConsoleApp1.Task6\ConsoleApp1.Task6.csproj", "{0700DADF-9901-4F9A-9697-2F2D204DE5F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-6", "ConsoleApp1.Task6\ConsoleApp1.Task2-6.csproj", "{0700DADF-9901-4F9A-9697-2F2D204DE5F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task7", "ConsoleApp1.Task7\ConsoleApp1.Task7.csproj", "{76AB5266-252E-4A27-B4AD-67F971A523D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-7", "ConsoleApp1.Task7\ConsoleApp1.Task2-7.csproj", "{76AB5266-252E-4A27-B4AD-67F971A523D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task8", "ConsoleApp1.Task8\ConsoleApp1.Task8.csproj", "{7CC69DD4-E0D6-4917-82F4-21FF1344BFE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-8", "ConsoleApp1.Task8\ConsoleApp1.Task2-8.csproj", "{7CC69DD4-E0D6-4917-82F4-21FF1344BFE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task9", "ConsoleApp1.Task9\ConsoleApp1.Task9.csproj", "{B90F4F22-02B9-441A-AC2F-DA563B8D56C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-9", "ConsoleApp1.Task9\ConsoleApp1.Task2-9.csproj", "{B90F4F22-02B9-441A-AC2F-DA563B8D56C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task10", "ConsoleApp1.Task10\ConsoleApp1.Task10.csproj", "{C951A7CF-C8D3-453B-9BEB-EE7C04EC0AA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-10", "ConsoleApp1.Task10\ConsoleApp1.Task2-10.csproj", "{C951A7CF-C8D3-453B-9BEB-EE7C04EC0AA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task11", "ConsoleApp1.Task11\ConsoleApp1.Task11.csproj", "{981CCEAA-13E2-4A8F-B660-0A7F02BD8284}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-11", "ConsoleApp1.Task11\ConsoleApp1.Task2-11.csproj", "{981CCEAA-13E2-4A8F-B660-0A7F02BD8284}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task12", "ConsoleApp1.Task12\ConsoleApp1.Task12.csproj", "{62A59197-3A41-4E18-91EE-5FFB4294FF24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-12", "ConsoleApp1.Task12\ConsoleApp1.Task2-12.csproj", "{62A59197-3A41-4E18-91EE-5FFB4294FF24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task13", "ConsoleApp1.Task13\ConsoleApp1.Task13.csproj", "{6E17A0BC-3F16-45C7-AFEA-62CBB4E4E694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-13", "ConsoleApp1.Task13\ConsoleApp1.Task2-13.csproj", "{6E17A0BC-3F16-45C7-AFEA-62CBB4E4E694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task14", "ConsoleApp1.Task14\ConsoleApp1.Task14.csproj", "{510EE2E9-9F17-404E-9EDF-DE9BD87A36CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-14", "ConsoleApp1.Task14\ConsoleApp1.Task2-14.csproj", "{510EE2E9-9F17-404E-9EDF-DE9BD87A36CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.Task15", "ConsoleApp1.Task15\ConsoleApp1.Task15.csproj", "{10747D89-D3A0-4740-B385-DB17B58AD29F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1.Task2-15", "ConsoleApp1.Task15\ConsoleApp1.Task2-15.csproj", "{10747D89-D3A0-4740-B385-DB17B58AD29F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
